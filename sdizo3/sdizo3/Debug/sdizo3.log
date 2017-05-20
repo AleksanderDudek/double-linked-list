@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\a\documents\visual studio 2015\projects\sdizo3\sdizo3\source.cpp(58): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\a\documents\visual studio 2015\projects\sdizo3\sdizo3\source.cpp(153): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\a\documents\visual studio 2015\projects\sdizo3\sdizo3\source.cpp(743): warning C4101: 'lista': unreferenced local variable
+  sdizo3.vcxproj -> C:\Users\a\Documents\Visual Studio 2015\Projects\sdizo3\Debug\sdizo3.exe
