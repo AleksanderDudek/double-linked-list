@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\a\documents\visual studio 2015\projects\sdizo2\sdizo2\source.cpp(170): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\a\documents\visual studio 2015\projects\sdizo2\sdizo2\source.cpp(414): warning C4101: 'lista': unreferenced local variable
+c:\users\a\documents\visual studio 2015\projects\sdizo2\sdizo2\source.cpp(136): warning C4715: 'WstawJeden': not all control paths return a value
+  sdizo2.vcxproj -> C:\Users\a\documents\visual studio 2015\Projects\sdizo2\Debug\sdizo2.exe
